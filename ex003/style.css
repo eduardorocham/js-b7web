@@ -1,0 +1,14 @@
+div {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 1px solid grey;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
