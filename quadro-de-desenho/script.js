@@ -78,5 +78,5 @@ function draw(x, y) {
 function clearScreen() {
     context.setTransform(1, 0, 0, 1, 0, 0);
     context.clearRect(0, 0, context.canvas.width, context.canvas.heigth)
-}
+};
 
